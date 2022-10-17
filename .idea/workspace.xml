@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a849b12-c8b7-41d2-9894-81d03e302b1d" name="Changes" comment="imcomplete method EOD commit">
+    <list default="true" id="5a849b12-c8b7-41d2-9894-81d03e302b1d" name="Changes" comment="Simplified code and tried to make it readable - needs more work and need to create tests.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
     </list>
@@ -22,6 +22,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -114,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665158492121</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Simplified code and tried to make it readable - needs more work and need to create tests.">
+      <created>1665761813630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665761813630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,25 +145,16 @@
     <MESSAGE value="Working import of word dictionary as a list" />
     <MESSAGE value="Working method to find all possible permutations of words from the keyword" />
     <MESSAGE value="imcomplete method EOD commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="imcomplete method EOD commit" />
+    <MESSAGE value="Simplified code and tried to make it readable - needs more work and need to create tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplified code and tried to make it readable - needs more work and need to create tests." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/main/scala/main.scala</url>
-          <line>55</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/main.scala</url>
-          <line>52</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/main.scala</url>
-          <line>40</line>
-          <option name="timeStamp" value="7" />
+          <line>29</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
